@@ -1,0 +1,13 @@
+.idea
+target/
+
+.idea/
+*.iml
+*/target/
+
+*.log
+*.ctxt
+*.class
+
+hs_err_pid*
+
