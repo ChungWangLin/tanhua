@@ -1,0 +1,7 @@
+app:
+  id: app001
+apollo:
+  bootstrap:
+    enable: true
+    namespace: app.dev
+  meta: http://192.168.0.233:8080
